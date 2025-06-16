@@ -1,2 +1,2 @@
-# migration-system
-
+Database Schema & Migrations for the DataSpeed Project
+This repository contains the database structure (schema.sql) and modular SQL migration files used to manage and version the DataSpeed platform’s MySQL database. It provides a simple, manual alternative to Laravel's migration system using raw SQL and PHP. Designed for team collaboration and consistent schema deployment across development and production environments.
